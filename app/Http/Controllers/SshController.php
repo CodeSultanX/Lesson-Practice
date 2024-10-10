@@ -9,4 +9,7 @@ class SshController extends Controller
     public function gitlaravel(){
         return '';
     }
+    public function laravel1(){
+        return '';
+    }
 }
